@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OOPJava_TX2_1/1.0.0": {
+        "runtime": {
+          "OOPJava_TX2_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPJava_TX2_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\obj\Debug\net8.0\OOPJava_TX2_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\obj\Debug\net8.0\OOPJava_TX2_1.AssemblyInfoInputs.cache
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\obj\Debug\net8.0\OOPJava_TX2_1.AssemblyInfo.cs
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\obj\Debug\net8.0\OOPJava_TX2_1.csproj.CoreCompileInputs.cache
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\obj\Debug\net8.0\OOPJava_TX2_1.sourcelink.json
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\bin\Debug\net8.0\OOPJava_TX2_1.exe
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\bin\Debug\net8.0\OOPJava_TX2_1.deps.json
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\bin\Debug\net8.0\OOPJava_TX2_1.runtimeconfig.json
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\bin\Debug\net8.0\OOPJava_TX2_1.dll
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\bin\Debug\net8.0\OOPJava_TX2_1.pdb
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\obj\Debug\net8.0\OOPJava_TX2_1.dll
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\obj\Debug\net8.0\refint\OOPJava_TX2_1.dll
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\obj\Debug\net8.0\OOPJava_TX2_1.pdb
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\obj\Debug\net8.0\OOPJava_TX2_1.genruntimeconfig.cache
+D:\PRN212\Code\OOPJava_TX2_1\OOPJava_TX2_1\obj\Debug\net8.0\ref\OOPJava_TX2_1.dll
