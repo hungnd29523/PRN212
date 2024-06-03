@@ -1,0 +1,10 @@
+D:\PRN212\Code\AutomobileSolution\AutomobileLibrary\bin\Debug\net4.8\AutomobileLibrary.dll
+D:\PRN212\Code\AutomobileSolution\AutomobileLibrary\bin\Debug\net4.8\AutomobileLibrary.pdb
+D:\PRN212\Code\AutomobileSolution\AutomobileLibrary\obj\Debug\net4.8\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\PRN212\Code\AutomobileSolution\AutomobileLibrary\obj\Debug\net4.8\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Code\AutomobileSolution\AutomobileLibrary\obj\Debug\net4.8\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\PRN212\Code\AutomobileSolution\AutomobileLibrary\obj\Debug\net4.8\AutomobileLibrary.AssemblyInfo.cs
+D:\PRN212\Code\AutomobileSolution\AutomobileLibrary\obj\Debug\net4.8\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\PRN212\Code\AutomobileSolution\AutomobileLibrary\obj\Debug\net4.8\AutomobileLibrary.sourcelink.json
+D:\PRN212\Code\AutomobileSolution\AutomobileLibrary\obj\Debug\net4.8\AutomobileLibrary.dll
+D:\PRN212\Code\AutomobileSolution\AutomobileLibrary\obj\Debug\net4.8\AutomobileLibrary.pdb

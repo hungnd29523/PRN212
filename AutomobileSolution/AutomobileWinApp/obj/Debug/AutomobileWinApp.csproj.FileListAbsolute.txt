@@ -1,0 +1,6 @@
+D:\PRN212\Code\AutomobileSolution\AutomobileWinApp\obj\Debug\AutomobileWinApp.csproj.AssemblyReference.cache
+D:\PRN212\Code\AutomobileSolution\AutomobileWinApp\obj\Debug\AutomobileWinApp.frmCarDetails.resources
+D:\PRN212\Code\AutomobileSolution\AutomobileWinApp\obj\Debug\AutomobileWinApp.frmCarManagement.resources
+D:\PRN212\Code\AutomobileSolution\AutomobileWinApp\obj\Debug\AutomobileWinApp.Properties.Resources.resources
+D:\PRN212\Code\AutomobileSolution\AutomobileWinApp\obj\Debug\AutomobileWinApp.csproj.GenerateResource.cache
+D:\PRN212\Code\AutomobileSolution\AutomobileWinApp\obj\Debug\AutomobileWinApp.csproj.CoreCompileInputs.cache
