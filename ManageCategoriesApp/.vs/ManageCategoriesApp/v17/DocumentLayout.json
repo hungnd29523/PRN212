@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\Code\\ManageCategoriesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82231998-59C7-42D0-85EF-2A8C71C038A2}|ManageCategoriesApp\\ManageCategoriesApp.csproj|d:\\prn212\\code\\managecategoriesapp\\managecategoriesapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82231998-59C7-42D0-85EF-2A8C71C038A2}|ManageCategoriesApp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriesapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anhdo\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82231998-59C7-42D0-85EF-2A8C71C038A2}|ManageCategoriesApp\\ManageCategoriesApp.csproj|d:\\prn212\\code\\managecategoriesapp\\managecategoriesapp\\windowmanagecategories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82231998-59C7-42D0-85EF-2A8C71C038A2}|ManageCategoriesApp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriesapp\\windowmanagecategories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82231998-59C7-42D0-85EF-2A8C71C038A2}|ManageCategoriesApp\\ManageCategoriesApp.csproj|d:\\prn212\\code\\managecategoriesapp\\managecategoriesapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82231998-59C7-42D0-85EF-2A8C71C038A2}|ManageCategoriesApp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriesapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82231998-59C7-42D0-85EF-2A8C71C038A2}|ManageCategoriesApp\\ManageCategoriesApp.csproj|d:\\prn212\\code\\managecategoriesapp\\managecategoriesapp\\windowmanagecategories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82231998-59C7-42D0-85EF-2A8C71C038A2}|ManageCategoriesApp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriesapp\\windowmanagecategories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82231998-59C7-42D0-85EF-2A8C71C038A2}|ManageCategoriesApp\\ManageCategoriesApp.csproj|d:\\prn212\\code\\managecategoriesapp\\managecategoriesapp\\managecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82231998-59C7-42D0-85EF-2A8C71C038A2}|ManageCategoriesApp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriesapp\\managecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 202,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Code\\ManageCategoriesApp\\ManageCategoriesApp\\App.xaml",
+              "RelativeDocumentMoniker": "ManageCategoriesApp\\App.xaml",
+              "ToolTip": "D:\\PRN212\\Code\\ManageCategoriesApp\\ManageCategoriesApp\\App.xaml",
+              "RelativeToolTip": "ManageCategoriesApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T03:19:05.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\anhdo\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\anhdo\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "ViewState": "AQIAABsAAAAAAAAAAAApwCcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:18:07.523Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\PRN212\\Code\\ManageCategoriesApp\\ManageCategoriesApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ManageCategoriesApp\\AssemblyInfo.cs",
+              "ToolTip": "D:\\PRN212\\Code\\ManageCategoriesApp\\ManageCategoriesApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "ManageCategoriesApp\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:16:26.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowManageCategories.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Code\\ManageCategoriesApp\\ManageCategoriesApp\\WindowManageCategories.xaml.cs",
+              "RelativeDocumentMoniker": "ManageCategoriesApp\\WindowManageCategories.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Code\\ManageCategoriesApp\\ManageCategoriesApp\\WindowManageCategories.xaml.cs",
+              "RelativeToolTip": "ManageCategoriesApp\\WindowManageCategories.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:07:59.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowManageCategories.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Code\\ManageCategoriesApp\\ManageCategoriesApp\\WindowManageCategories.xaml",
+              "RelativeDocumentMoniker": "ManageCategoriesApp\\WindowManageCategories.xaml",
+              "ToolTip": "D:\\PRN212\\Code\\ManageCategoriesApp\\ManageCategoriesApp\\WindowManageCategories.xaml",
+              "RelativeToolTip": "ManageCategoriesApp\\WindowManageCategories.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T02:07:12.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageCategories.cs",
+              "DocumentMoniker": "D:\\PRN212\\Code\\ManageCategoriesApp\\ManageCategoriesApp\\ManageCategories.cs",
+              "RelativeDocumentMoniker": "ManageCategoriesApp\\ManageCategories.cs",
+              "ToolTip": "D:\\PRN212\\Code\\ManageCategoriesApp\\ManageCategoriesApp\\ManageCategories.cs",
+              "RelativeToolTip": "ManageCategoriesApp\\ManageCategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:25:54.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
